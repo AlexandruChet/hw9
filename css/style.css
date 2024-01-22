@@ -30,43 +30,23 @@ body {
   }
 
   header{
-    
     color: #000;
-font-family: Raleway;
+font-family: Roboto;
 font-size: 26px;
 font-style: normal;
 font-weight: 700;
 line-height: normal;
 letter-spacing: 0.78px;
   }
- button{
-    Усі
-color: #FFF;
 
-text-align: center;
-font-family: Roboto;
-font-size: 16px;
-font-style: normal;
-font-weight: 500;
-line-height: 26px; /* 162.5% */
-letter-spacing: 0.48px;
- }
-  footer{
-    WebStudio
-    color: #2196F3;
-    
-    font-family: Raleway;
-    font-size: 26px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
-    letter-spacing: 0.78px;
-    color: #FFF;
-    font-family: Raleway;
-    font-size: 26px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
-    letter-spacing: 0.78px;
-    
-  }
+footer{
+    font-family: 'Roboto';
+}
+
+button {
+    font-family: 'Roboto';
+}
+
+header {
+    font-family: 'Roboto'
+}

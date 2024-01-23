@@ -7,20 +7,11 @@ body {
   }
   
   
-  section {
-    width: 1200px;
-    padding: 30px;
-  }
   
   li{
     list-style-type: none;
   }
-  header {
-    background-color: #ffffff;
-    text-align: center;
-    color: #000;
-  }
-  
+
   footer{
     background-color: #2F303A;
     color: #fff;
@@ -78,5 +69,7 @@ header {
   font-weight: 500;
   line-height: 26px; /* 162.5% */
   letter-spacing: 0,48px;
+  background-color: #ffffff;
+  text-align: center;
 
 }
